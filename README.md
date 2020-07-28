@@ -18,6 +18,10 @@ There are three command-line switches present.
 * `--width [W]` sets the width of the drawing surface if not in full screen
 * `--height [H]` sets the height of the drawing surface if not in full screen
 
+## Preview
+
+![Preview](preview.png)
+
 ## Licensing
 The software is under the MIT license. For more information, see the
 [license file](LICENSE).
